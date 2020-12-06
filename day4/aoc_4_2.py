@@ -1,6 +1,6 @@
 import re
 
-f = open("aoc_inputs/aoc_4.txt", "r")
+f = open("aoc_4.txt", "r")
 
 passports = []
 curr = ""

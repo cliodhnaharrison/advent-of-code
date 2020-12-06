@@ -1,4 +1,4 @@
-f = open("aoc_inputs/aoc_2.txt", "r")
+f = open("aoc_2.txt", "r")
 
 passwords = []
 

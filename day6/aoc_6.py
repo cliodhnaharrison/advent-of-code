@@ -1,6 +1,6 @@
 from string import ascii_lowercase
 
-f = open("aoc_inputs/aoc_6.txt", "r")
+f = open("aoc_6.txt", "r")
 
 customs = []
 curr = ""

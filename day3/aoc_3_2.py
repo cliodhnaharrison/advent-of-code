@@ -1,4 +1,4 @@
-f = open("aoc_inputs/aoc_3.txt", "r")
+f = open("aoc_3.txt", "r")
 
 map = []
 

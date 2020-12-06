@@ -1,5 +1,5 @@
 from math import ceil
-f = open("aoc_inputs/aoc_5.txt", "r")
+f = open("aoc_5.txt", "r")
 
 passes = []
 

@@ -1,4 +1,4 @@
-f = open("aoc_inputs/aoc_1.txt", "r")
+f = open("aoc_1.txt", "r")
 expenses = [int(x) for x in f.read().split('\n')[:-1]]
 
 for i in range(len(expenses)):
